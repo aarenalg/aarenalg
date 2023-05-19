@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarenalg
-- 👀 I’m interested in pentesting, security and scripting
+- 👀 I’m interested in pentesting, security and development
 - 🌱 I’m currently learning Cybersecurity and TIC
 - 💞️ I’m looking to collaborate on code projects
 - 📫 How to reach me ...
